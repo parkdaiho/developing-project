@@ -5,7 +5,7 @@
 - [프로젝트 소개](#프로젝트-소개-)
 - [기술 스택](#기술-스택-)
 - [Browser support](#browser-support-)
-- [Information Architecture](#information-architecture-)
+- [Information Architecture](#Information-Architecture-)
 - [핵심 구현 기능](#핵심-구현-기능-)
 - [화면 구성](#화면-구성-)
 
@@ -25,8 +25,7 @@
  - spring security
  - mail
 - thymeleaf
-- HTML, CSS
-  - Bootstrap
+- HTML, CSS(Bootstrap)
 - JS
 - H2(개발)
 
@@ -39,7 +38,7 @@
 
 ### Information Architecture 🕸️
 
-
+<img width="1408" alt="image" src="https://github.com/user-attachments/assets/4e35ac43-981e-48d2-9eb1-789544c9d9b1">
 
 ### 핵심 구현 기능 🔥
 
